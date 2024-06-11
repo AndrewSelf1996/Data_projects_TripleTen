@@ -1,7 +1,7 @@
 
 # E-Commerce Project
 
-In this project I was tasked with taking raw transaction data from the provided dataset and perfomring exploratory data analysis. 
+In this project I was tasked with taking raw transaction data from the provided dataset and performing exploratory data analysis. 
 
 I used data from the raw daatset to create a pivot table to represent the conversion funnel of the site. 
 
