@@ -11,4 +11,4 @@ Finally, I created another pivot table to calculate the retention rates of each 
 
 I also provided insight into why I filtered and used the data that I did and recommendations that were gathered following my analysis.
 
-Recommended offering incentives to repeat customers dur to low overall retention rates.
+Recommended offering incentives to repeat customers due to low overall retention rates.
