@@ -10,3 +10,5 @@ Recommended that Zomato put an emphasis on students as these are the largest dem
 Preview:
 
 ![Zomato Customer Segmentation Analysis](https://github.com/user-attachments/assets/0835a906-4c7e-4fb5-b261-0cf9c197851e)
+![Zomato Analysis](https://github.com/user-attachments/assets/473f531c-b963-4a3c-b25a-f0776ef3d3a6)
+![Zomato Analysis 2](https://github.com/user-attachments/assets/e44f706f-cdac-4843-b3c5-fd4f6f9ea6a3)
